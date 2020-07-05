@@ -6,6 +6,7 @@ https://github.com/CSSEGISandData/COVID-19
 # Technology used
 * IntelliJ IDEA Community Edition
 * Java
+* HTML
 * Spring Boot
 * Thymeleaf
 * Bootstrap
